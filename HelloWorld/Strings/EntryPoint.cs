@@ -1,15 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using System;
 
-namespace Strings
+class EntryPoint
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-        }
+        string firstString = "C# Course";
+        string secondString = "for beginers";
+
+       Console.WriteLine(firstString);
+       Console.WriteLine(secondString);
+
+        // concatenation
+
+        Console.WriteLine(firstString + " " + secondString);
+
     }
 }

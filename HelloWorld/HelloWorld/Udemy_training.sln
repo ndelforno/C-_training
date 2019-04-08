@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integers", "..\Integers\Integers.csproj", "{BDA51F85-B4A4-40EF-9F87-70283BE48765}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "..\Strings\Strings.csproj", "{A45015F7-1206-4A3A-B1AD-EE7BADDAC372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BDA51F85-B4A4-40EF-9F87-70283BE48765}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDA51F85-B4A4-40EF-9F87-70283BE48765}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDA51F85-B4A4-40EF-9F87-70283BE48765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45015F7-1206-4A3A-B1AD-EE7BADDAC372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45015F7-1206-4A3A-B1AD-EE7BADDAC372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45015F7-1206-4A3A-B1AD-EE7BADDAC372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45015F7-1206-4A3A-B1AD-EE7BADDAC372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
