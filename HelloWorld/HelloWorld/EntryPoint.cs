@@ -1,8 +1,11 @@
 ﻿
-    class EntryPoint
+using System;
+
+class EntryPoint
+ {
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        Console.WriteLine("Hello World");
     }
+ }
 
