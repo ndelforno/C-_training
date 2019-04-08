@@ -1,0 +1,7 @@
+D:\Repositories\C#_training\HelloWorld\Integers\bin\Debug\Integers.exe.config
+D:\Repositories\C#_training\HelloWorld\Integers\bin\Debug\Integers.exe
+D:\Repositories\C#_training\HelloWorld\Integers\bin\Debug\Integers.pdb
+D:\Repositories\C#_training\HelloWorld\Integers\obj\Debug\Integers.csprojAssemblyReference.cache
+D:\Repositories\C#_training\HelloWorld\Integers\obj\Debug\Integers.csproj.CoreCompileInputs.cache
+D:\Repositories\C#_training\HelloWorld\Integers\obj\Debug\Integers.exe
+D:\Repositories\C#_training\HelloWorld\Integers\obj\Debug\Integers.pdb
