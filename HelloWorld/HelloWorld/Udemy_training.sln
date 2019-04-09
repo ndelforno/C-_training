@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "..\Arrays\Arrays.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteAndWriteLine", "WriteAndWriteLine\WriteAndWriteLine.csproj", "{6AF957F7-6798-41FA-B923-1D96783FC0BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArythmeticOperators", "ArythmeticOperators\ArythmeticOperators.csproj", "{CD57E123-B419-4357-8746-78AD9E3FCB5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6AF957F7-6798-41FA-B923-1D96783FC0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AF957F7-6798-41FA-B923-1D96783FC0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AF957F7-6798-41FA-B923-1D96783FC0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD57E123-B419-4357-8746-78AD9E3FCB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD57E123-B419-4357-8746-78AD9E3FCB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD57E123-B419-4357-8746-78AD9E3FCB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD57E123-B419-4357-8746-78AD9E3FCB5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
