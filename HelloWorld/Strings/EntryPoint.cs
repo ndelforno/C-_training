@@ -8,8 +8,8 @@ class EntryPoint
         string firstString = "C# Course";
         string secondString = "for beginers";
 
-       Console.WriteLine(firstString);
-       Console.WriteLine(secondString);
+       //Console.WriteLine(firstString);
+       //Console.WriteLine(secondString);
 
         // concatenation
 
