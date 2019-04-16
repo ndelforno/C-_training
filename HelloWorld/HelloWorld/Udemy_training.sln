@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteAndWriteLine", "WriteA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArythmeticOperators", "ArythmeticOperators\ArythmeticOperators.csproj", "{CD57E123-B419-4357-8746-78AD9E3FCB5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals_statements", "..\ConsoleApp1\Conditionals_statements.csproj", "{F1755FE1-0B54-4504-B42D-1A30EAAB0C88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{CD57E123-B419-4357-8746-78AD9E3FCB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD57E123-B419-4357-8746-78AD9E3FCB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD57E123-B419-4357-8746-78AD9E3FCB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1755FE1-0B54-4504-B42D-1A30EAAB0C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1755FE1-0B54-4504-B42D-1A30EAAB0C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1755FE1-0B54-4504-B42D-1A30EAAB0C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1755FE1-0B54-4504-B42D-1A30EAAB0C88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
