@@ -11,5 +11,12 @@ class EntryPoint
             Console.WriteLine(count);
             count += 1;
         }
+
+        string[] myArray = { "nick", "dom", "tiff" };
+
+        for (int i = 0; i < myArray.Length; i++)
+        {
+            Console.WriteLine(myArray[i]);
+        }
     }
 }

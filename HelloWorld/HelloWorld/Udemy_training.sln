@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArythmeticOperators", "Aryt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals_statements", "..\ConsoleApp1\Conditionals_statements.csproj", "{F1755FE1-0B54-4504-B42D-1A30EAAB0C88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDoWhile", "ConsoleApp1\WhileDoWhile.csproj", "{607BCA7C-9F8E-4BA4-BC43-D6A1F8E1D8E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loop", "ConsoleApp1\loop.csproj", "{607BCA7C-9F8E-4BA4-BC43-D6A1F8E1D8E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
