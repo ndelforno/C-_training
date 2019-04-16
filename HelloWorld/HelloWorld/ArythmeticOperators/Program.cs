@@ -21,5 +21,12 @@ class Program
         Console.WriteLine(firstNumber);
 
         Console.WriteLine(551 % 2);
+
+        bool theTrue = true;
+        bool theFalse = false;
+
+        Console.WriteLine(theTrue && theFalse);
+        Console.WriteLine(theTrue || theFalse);
+        Console.WriteLine(!theTrue);
     }
 }
